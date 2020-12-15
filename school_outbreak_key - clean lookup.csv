@@ -1,0 +1,489 @@
+original_county,original_school_name,original_school_address,original_city,original_school_grades,district_id,district_name,district_type,school_id,school_name,address,city
+Lenawee,Adrian High School,785 Riverside Ave,Adrian,High school,46010,Adrian Public Schools,LEA School,27,Adrian High School,785 Riverside Ave,Adrian
+Lenawee,Adrian Schools,785 Riverside Ave,Adrian,High school,46010,Adrian Public Schools,LEA School,27,Adrian High School,785 Riverside Ave,Adrian
+Monroe,Airport High School,11330 Grafton Rd,Carleton,High school,58020,Airport Community Schools,LEA School,1086,Airport Senior High School,11330 Grafton Rd,Carleton
+Tuscola,Akron Fairgrove Elementary,2800 N Thomas,Fairgrove,Pre-school - elementary,79010,Akron-Fairgrove Schools,LEA School,33,Akron-Fairgrove Elem. School,4335 Lynn St,Akron
+Tuscola,Akron-Fairgrove School,2800 N Thomas,Fairgrove,Junior high/middle school,79010,Akron-Fairgrove Schools,LEA School,34,Akron-Fairgrove Jr/Sr High School,2800 North Thomas Rd,Fairgrove
+St. Clair,Algonac High School,5200 Taft Rd,Algonac,High school,74030,Algonac Community School District,LEA School,54,Algonac Junior/Senior High School,5200 Taft Rd,Clay
+Gratiot,Alma Luce Road,6265 N Luce Rd,Alma,Pre-school - elementary,29010,Alma Public Schools,LEA School,5774,Alma Senior High School,1500 Pine Ave,Alma
+Gratiot,Luce Road Elementary - Alma Public Schools,6265 N Luce Rd,Alma,Pre-school - elementary,29010,Alma Public Schools,LEA School,7367,Luce Road Elementary School,6265 North Luce Rd,Alma
+Lapeer,Almont High School,4701 Howland Rd,Almont,High school,44020,Almont Community Schools,LEA School,73,Almont High School,4701 Howland Rd,Almont
+Wayne,Plymouth Christian Academy,43065 Joy Rd,Canton,High school,82981,American Montessori Academy,PSA School,196,American Montessori Academy Upper Elementary,30055 Joy Rd,Westland
+Macomb,Anchor Bay High School,6319 County Line Rd,Ira,High school,50040,Anchor Bay School District,LEA School,89,Anchor Bay High School,6319 County Line Rd,Ira
+Macomb,Anchor Bay High School,6319 County Line Rd,Fair Haven,High school,50040,Anchor Bay School District,LEA School,89,Anchor Bay High School,6319 County Line Rd,Ira
+Macomb,Anchor Bay Middle School South,48650 Sugarbush Rd,New Baltimore,Junior high/middle school,50040,Anchor Bay School District,LEA School,88,Anchor Bay Middle School North,52805 Ashley Dr,New Baltimore
+Macomb,Sugarbush Elementary,48400 Sugarbush Rd,Chesterfield,Pre-school - elementary,50040,Anchor Bay School District,LEA School,884,Dean A. Naldrett School,47800 Sugarbush Rd,Chesterfield
+Macomb,Sequoyah Elementary -Bozymowski,18500 24 Mile Rd,Macomb,Pre-school - elementary,50040,Anchor Bay School District,LEA School,6766,Great Oaks Elementary School,32900 24 Mile Rd,Chesterfield
+Calhoun,Athens Senior High School,300 E Holcomb St,Athens,High school,13050,Athens Area Schools,LEA School,136,Athens Junior/Senor High School,300 East Holcomb St,Athens
+Calhoun,East Leroy Elementary,4320 K Dr S,East Leroy,Administrative,13050,Athens Area Schools,LEA School,1027,East Leroy Elementary School,4320 K Dr S,East Leroy
+Genesee,Atherton Elementary School,3444 S Genesee Rd,Burton,Pre-school - elementary,25130,Atherton Community Schools,LEA School,138,Atherton Jr. / Sr. High School,3354 South Genesee Rd,Burton
+Bay,Bangor West,3175 Wilder Rd,Bay City,Pre-school - elementary,9030,Bangor Township Schools,LEA School,186,Bangor Central School,208 State Park Dr,Bay City
+Baraga,Baraga Area Schools,210 Lyons Street,Baraga,High school,7020,Baraga Area Schools,LEA School,198,Baraga School,210 Lyons St,Baraga
+Delta,Bark River Harris School,W471 US2&41,Harris,Junior high/middle school,21090,Bark River-Harris School District,LEA School,204,Bark River-Harris Jr/Sr High School,Hwy Us 2 & 41,Harris
+Calhoun,Battle Creek Central,100 W Van Buren St,Battle Creek,Administrative,13020,Battle Creek Public Schools,LEA School,223,Battle Creek Central High School,100 Van Buren St W,Battle Creek
+Bay,Bay Arenac ISD,4428 2 Mile Rd,Bay City,High school,9010,Bay City School District,LEA School,227,Bay City Central High School,1624 Columbus Ave,Bay City
+Bay,Bay City Central High School,910 N Walnut St,Bay City,High school,9010,Bay City School District,LEA School,227,Bay City Central High School,1624 Columbus Ave,Bay City
+Bay,Mackensen Elementary,5535 Dennis Dr,Bay City,Pre-school - elementary,9010,Bay City School District,LEA School,2309,Mackensen Elementary School,5535 Dennis Dr,Bay City
+Bay,BCPS Western,500 W Midland Rd,Auburn,Junior high/middle school,9010,Bay City School District,LEA School,2467,Western Middle School,500 West Midland Rd,Auburn
+Jackson,Western Middle School,1400 S Dearing Rd,Parma,Junior high/middle school,9010,Bay City School District,LEA School,2467,Western Middle School,500 West Midland Rd,Auburn
+Gladwin,Beaverton Elementary,440 S Ross Street,Beaverton,Pre-school - elementary,26010,Beaverton Schools,LEA School,4826,Beaverton Elementary School,440 South Ross St,Beaverton
+Genesee,South Bendle Elementary,4341 Larkin Dr,Burton,Pre-school - elementary,25060,Bendle Public Schools,LEA School,3503,South Bendle Elementary School,4341 Larkin Dr,Burton
+Genesee,Barhitte Elementary,6080 Roberta St,Burton,Pre-school - elementary,25230,Bentley Community School District,LEA School,203,Barhitte Elementary School,6080 Roberta St,Burton
+Benzie,Benzie Central Community School,9222 Homestead,Benzonia,High school,10015,Benzie County Central Schools,LEA School,287,Benzie Central Sr. High School,9300 Homestead Rd,Benzonia
+Benzie,Benzie Central Community School,9300 Homestead Rd,Benzonia,High school,10015,Benzie County Central Schools,LEA School,287,Benzie Central Sr. High School,9300 Homestead Rd,Benzonia
+Berrien,Blossomland,711 Saint Joseph Ave,Berrien Springs,High school,11000,Berrien RESA,ISD School,6922,Blossomland Learning Center,711 Saint Joseph Ave,Berrien Springs
+Berrien,Mars Elementary Schools,430 W Mars Street,Berrien Springs,Pre-school - elementary,11240,Berrien Springs Public Schools,LEA School,298,Mars Elementary School,1 Sylvester Ave,Berrien Springs
+Gogebic,A.D. Johnston High School,100 Lead Street,Bessemer,High school,27010,Bessemer Area School District,LEA School,3,A.D. Johnston Jr/Sr High School,100 West Lead St,Bessemer
+Gogebic,Bessemer Area Schools,100 Lead Street,Bessemer,High school,27010,Bessemer Area School District,LEA School,3,A.D. Johnston Jr/Sr High School,100 West Lead St,Bessemer
+Gogebic,Bessemer High School,100 Lead Street,Bessemer,High school,27010,Bessemer Area School District,LEA School,3,A.D. Johnston Jr/Sr High School,100 West Lead St,Bessemer
+Mecosta,Big Rapids High School,21175 15 Mile Rd,Big Rapids,High school,54010,Big Rapids Public Schools,LEA School,321,Big Rapids Middle School,500 North Warren Ave,Big Rapids
+Mecosta,Big Rapids Middle School,500 N Warren,Big Rapids,Junior high/middle school,54010,Big Rapids Public Schools,LEA School,321,Big Rapids Middle School,500 North Warren Ave,Big Rapids
+Mecosta,Brookside Elementary,210 Escott St,Big Rapids,Administrative,54010,Big Rapids Public Schools,LEA School,415,Brookside Elementary School,210 Escott St,Big Rapids
+Oakland,Birmingham Groves Big Brother Big Sister Program,NA,NA,High school,63010,Birmingham Public Schools,LEA School,4608,Wylie E. Groves High School,20500 West 13 Mile Rd,Beverly Hills
+Lenawee,Blissfield Schools,630 S Lane St,Blissfield,High school,46040,Blissfield Community Schools,LEA School,353,Blissfield High School,630 South Lane St,Blissfield
+Oakland,Bloomfield Christian School,3570 Telegraph Rd,Bloomfield Hills,High school,63080,Bloomfield Hills Schools,LEA School,2118,Bloomfield Hills High School,4200 Andover Rd,Bloomfield Hills
+Oakland,Bloomfield Christian Upper School,3570 Telegraph Rd,Bloomfield Hills,High school,63080,Bloomfield Hills Schools,LEA School,2118,Bloomfield Hills High School,4200 Andover Rd,Bloomfield Hills
+Branch,Girard Head Start (Branch ISD),1001 School Drive,Coldwater,Pre-school - elementary,12000,Branch ISD,ISD Unique Education Provider,7321,Early Education,200 Bishop Ave,Coldwater
+Oakland,Brandon High School,1025 S Ortonville Rd,Ortonville,High school,63180,Brandon School District in the Counties of Oakland and Lapeer,LEA School,385,Brandon High School,1025 South Ortonville Rd,Ortonville
+Berrien,Brandywine,1700 Bell Rd,Niles,High school,11210,Brandywine Community Schools,LEA School,386,Brandywine Elementary School,2428 South 13th St,Niles
+Berrien,Brandywine,1700 Bell Rd,Niles,Junior high/middle school,11210,Brandywine Community Schools,LEA School,386,Brandywine Elementary School,2428 South 13th St,Niles
+Berrien,Brandywine Middle/High School,1700 Bell Rd,Niles,High school,11210,Brandywine Community Schools,LEA School,386,Brandywine Elementary School,2428 South 13th St,Niles
+Dickinson,Breitung Township Schools,2000 Pyle Drive,Kingsford,High school,22030,Breitung Township School District,LEA School,2039,Kingsford High School,431 Hamilton Ave,Kingsford
+Berrien,Bridgman Elementary,3891 Lake Street,Bridgman,Pre-school - elementary,11340,Bridgman Public Schools,LEA School,400,Bridgman Elementary School,3891 Lake St,Bridgman
+Branch,Bronson Community Scool,501 E Chicago St,Bronson,High school,12020,Bronson Community School District,LEA School,408,Bronson Jr/Sr High School,450 East Grant St,Bronson
+Berrien,Buchanan Elementary,109 Ottawa,Buchanan,Pre-school - elementary,11310,Buchanan Community Schools,LEA School,435,Buchanan High School,401 West Chicago St,Buchanan
+Midland,Bullock Creek Elementary,1037 S Poseyville Rd,Midland,Pre-school - elementary,56020,Bullock Creek School District,LEA School,443,Bullock Creek High School,1420 South Badour Rd,Midland
+Shiawassee,Byron High School,312 Maple St,Byron,High school,78020,Byron Area Schools,LEA School,472,Byron Area High School,312 West Maple St,Byron
+Shiawassee,Byron HS,312 Maple St,Byron,High school,78020,Byron Area Schools,LEA School,472,Byron Area High School,312 West Maple St,Byron
+Kent,Byron Center High School,8500 Burlingame Ave SW,Byron Center,High school,41040,Byron Center Public Schools,LEA School,475,Byron Center High School,8500 Burlingame Ave Sw,Byron Center
+Kent,Caledonia High School,9050 Kraft Ave SE,Caledonia,High school,41050,Caledonia Community Schools,LEA School,491,Caledonia High School,9050 Kraft Ave Se,Caledonia
+Wayne,Canton High School,8415 N Canton Center Rd,Canton,High school,82711,Canton Preparatory High School,PSA School,2325,Canton Preparatory High School,46610 Cherry Hill Rd,Canton
+St. Clair,Capac Elementary School,351 W Kempt Ct,Capac,Pre-school - elementary,74040,Capac Community Schools,LEA School,518,Capac Elementary School,351 West Kempf Ct,Capac
+Menominee,Carney-Nadeau Public School,151 US 41 North,Carney,High school,55010,Carney-Nadeau Public Schools,LEA School,527,Carney-Nadeau Public School,151   Us 41,Carney
+Tuscola,CaroHigh School,301 N Hooper ST,Caro,High school,79020,Caro Community Schools,LEA School,529,Caro High School,301 North Hooper St,Caro
+Montcalm,Carson City Elementary,338 Eagle Ave,Carson City,Pre-school - elementary,59020,Carson City-Crystal Area Schools,LEA School,538,Carson City Elementary School,338 Eagle Ave,Carson City
+Montcalm,Carson City Crystal,2 bldgs,Carson City,Elementary and High school,59020,Carson City-Crystal Area Schools,LEA School,2110,Carson City-Crystal Alternative Academy,115 W Main Street,Carson City
+Montcalm,Carson City Crystal Bussing,213 E Sherman St,Carson City,High school,59020,Carson City-Crystal Area Schools,LEA School,539,Carson City-Crystal High School,213 East Sherman St,Carson City
+Montcalm,Carson City Crystal Schools,2 buildings,Carson City,High school,59020,Carson City-Crystal Area Schools,LEA School,539,Carson City-Crystal High School,213 East Sherman St,Carson City
+Montcalm,Carson City Schools,2 buildings,Carson City,High school,59020,Carson City-Crystal Area Schools,LEA School,539,Carson City-Crystal High School,213 East Sherman St,Carson City
+Montcalm,CCC Bussing,213 E Sherman St,Carson City,High school,59020,Carson City-Crystal Area Schools,LEA School,539,Carson City-Crystal High School,213 East Sherman St,Carson City
+Tuscola,Cass City Elementary,4805 Ale St,Cass City,Pre-school - elementary,79030,Cass City Public Schools,LEA School,509,Cass City Elementary,4805 Ale St,Cass City
+Kent,Cedar Springs High School,204 E Muskegon St,Cedar Springs,High school,41070,Cedar Springs Public Schools,LEA School,568,Cedar Springs Middle School,4873 16 Mile Rd Ne,Cedar Springs
+Montcalm,Central Montcalm,1480 S Sheridan Rd,Stanton,High school,59125,Central Montcalm Public Schools,LEA School,610,Central Montcalm High School,1480 South Sheridan Rd,Stanton
+Montcalm,Montcalm Area ISD,621 New St,Stanton,High school,59125,Central Montcalm Public Schools,LEA School,610,Central Montcalm High School,1480 South Sheridan Rd,Stanton
+Montcalm,Montcalm ISD,621 New St,Stanton,High school,59125,Central Montcalm Public Schools,LEA School,610,Central Montcalm High School,1480 South Sheridan Rd,Stanton
+St. Joseph,Centreville School,109 Hogan St,Centreville,Pre-school - elementary,75030,Centreville Public Schools,LEA School,628,Centreville Elementary School,190 Hogan St,Centreville
+Eaton,Parkview,301 E Kalamo Hwy,Charlotte,Junior high/middle school,23030,Charlotte Public Schools,LEA School,5797,Parkview Elementary School,301 East Kalamo Hwy,Charlotte
+Eaton,Parkview,301 E Kalamo,Charlotte,Junior high/middle school,23030,Charlotte Public Schools,LEA School,5797,Parkview Elementary School,301 East Kalamo Hwy,Charlotte
+Eaton,Parkview Elementary,301 E Kalamo Hwy,Charlotte,Pre-school - elementary,23030,Charlotte Public Schools,LEA School,5797,Parkview Elementary School,301 East Kalamo Hwy,Charlotte
+Mecosta,Barryton Elementary,19701 30th Ave,Barryton,Pre-school - elementary,54025,Chippewa Hills School District,LEA School,5902,Barryton Elementary School,19701 30th Ave,Barryton
+Macomb,Chippewa Valley Schools Administration,19120 Cass Ave,Clinton Township,Pre-school - elementary,50080,Chippewa Valley Schools,LEA School,7984,Chippewa Valley Adult and Mohegan Alt. Educ.,19230 Cass Ave,Clinton Twp
+Macomb,Clinton Valley Elementary School,1260 Mulberry,Mount Clemens,Pre-school - elementary,50080,Chippewa Valley Schools,LEA School,728,Clinton Valley Elementary School,1260 Mulberry St,Mount Clemens
+Macomb,Fox Elementary,17500 Millstone Dr,Macomb,Pre-school - elementary,50080,Chippewa Valley Schools,LEA School,557,Fox Elementary School,17500 Millstone Dr,Macomb
+Macomb,Iroquois Middle School,48301 Romeo Plank Rd,Macomb,Junior high/middle school,50080,Chippewa Valley Schools,LEA School,2655,Iroquois Middle School,48301 Romeo Plank,Macomb
+Macomb,Miami Elementary School,41290 Ketvale Dr,Clinton Township,Pre-school - elementary,50080,Chippewa Valley Schools,LEA School,6588,Miami Elementary School,41290 Kentvale Dr,Clinton Twp
+Macomb,Chippewa Valley Administration Building,39490 Garfield,Clinton Township,Pre-school - elementary,50080,Chippewa Valley Schools,LEA School,729,Wyandot Middle School,39490 Garfield,Clinton Twp
+Genesee,Grand Blanc High School West Campus,1 Jewett Trail,Grand Blanc,High school,25150,Clio Area School District,LEA School,732,Clio Area High School,1 Mustang Dr,Clio
+Genesee,Swartz Creek High School,1 Dragon Drive,Swartz Creek,High school,25150,Clio Area School District,LEA School,732,Clio Area High School,1 Mustang Dr,Clio
+Branch,Coldwater High School,275 N Fremont St,Coldwater,High school,12010,Coldwater Community Schools,LEA School,744,Coldwater High School,275 North Fremont St,Coldwater
+Branch,Coldwater High School,275 N Fremont St,Coldwater,Administrative,12010,Coldwater Community Schools,LEA School,744,Coldwater High School,275 North Fremont St,Coldwater
+St. Joseph,Coldwater High School,275 N Fremont St,Coldwater,High school,12010,Coldwater Community Schools,LEA School,744,Coldwater High School,275 North Fremont St,Coldwater
+St. Joseph,Coldwater School,275 N Fremont St,Coldwater,Administrative,12010,Coldwater Community Schools,LEA School,744,Coldwater High School,275 North Fremont St,Coldwater
+Branch,Max Larsen Elementary School,25 Parkhurst Ave,Coldwater,Pre-school - elementary,12010,Coldwater Community Schools,LEA School,1080,Larsen Elementary School,25 Parkhurst Ave,Coldwater
+Ingham,Cole Academy East,2921 Coleman Rd,East Lansing,Pre-school - elementary,33901,Cole Academy,PSA School,3324,Cole Academy East,2921 E Coleman Rd,East Lansing
+Berrien,Coloma High School,300 West Saint Joseph St,Coloma,High school,11330,Coloma Community Schools,LEA School,752,Coloma Elementary School,262 West St,Coloma
+Kalamazoo,Comstock Elementary,1423 N 28th S,Kalamazoo,Pre-school - elementary,39030,Comstock Public Schools,LEA School,765,Comstock High School,2107 North 26th St,Kalamazoo
+Ottawa,Coopersville High School,198 East St,Coopersville,High school,70120,Coopersville Area Public School District,LEA School,793,Coopersville West Early Childhood Center,198 East St,Coopersville
+Genesee,Davison Middle School,600 South Dayton Street,Davison,Junior high/middle school,25140,Davison Community Schools,LEA School,878,Davison High School,1250 North Oak Rd,Davison
+Genesee,Davison Middle School,600 S Dayton St,Davison,Junior high/middle school,25140,Davison Community Schools,LEA School,878,Davison High School,1250 North Oak Rd,Davison
+Genesee,World of Wonder/Ellen Street Campus,404 West Ellen Street,Fenton,Pre-school - elementary,25140,Davison Community Schools,LEA School,1674,Hill Elementary School,404 Aloha St,Davison
+Genesee,World of Wonder/Ellen Street Campus,404 E Ellen St,Fenton,Pre-school - elementary,25140,Davison Community Schools,LEA School,1674,Hill Elementary School,404 Aloha St,Davison
+Wayne,Salina Intermediate School,2623 Salina St,Dearborn,Junior high/middle school,82030,Dearborn City School District,LEA School,3383,Salina Intermediate 4 - 8,2623 Salina St,Dearborn
+Detroit City,Detroit Enterprise Academy,11224 Kercheval St,Detroit,Administrative,82979,Detroit Enterprise Academy,PSA School,9462,Detroit Enterprise Academy,11224 Kercheval St,Detroit
+Detroit City,Bunche Prepatory Academy,2715 Macomb Street,Detroit,Junior high/middle school,82015,Detroit Public Schools Community District,LEA School,446,Bunche Preparatory Academy,2715 Macomb Street,Detroit
+Detroit City,Amelia Earhart Elementary-Middle School,1000 Scotten Ave,Detroit,Junior high/middle school,82015,Detroit Public Schools Community District,LEA School,860,Earhart Elementary-Middle School,1000 Scotten Street,Detroit
+Wayne,Earhart Elementary,1000 Scotten Ave,Detroit,Administrative,82015,Detroit Public Schools Community District,LEA School,860,Earhart Elementary-Middle School,1000 Scotten Street,Detroit
+Wayne,Earhart Elementary,1000 Scotten Ave,Detroit,Pre-school - elementary,82015,Detroit Public Schools Community District,LEA School,860,Earhart Elementary-Middle School,1000 Scotten Street,Detroit
+Wayne,Munger,5525 Martin Street,Detroit,Administrative,82015,Detroit Public Schools Community District,LEA School,858,Munger Elementary-Middle School,5525 Martin,Detroit
+Wayne,Munger,5525 Martin Street,Detroit,Pre-school - elementary,82015,Detroit Public Schools Community District,LEA School,858,Munger Elementary-Middle School,5525 Martin,Detroit
+Detroit City,Munger Elementary-Middle School,5525 Martin St,Detroit,Administrative,82015,Detroit Public Schools Community District,LEA School,858,Munger Elementary-Middle School,5525 Martin,Detroit
+Detroit City,Western International High School,1500 Scotten Ave,Detroit,High school,82015,Detroit Public Schools Community District,LEA School,4477,Western International High School,1500 Scotten St,Detroit
+Wayne,Western International High School,1500 Scotten Ave,Detroit,Administrative,82015,Detroit Public Schools Community District,LEA School,4477,Western International High School,1500 Scotten St,Detroit
+Clinton,Dewitt Public Schools,1721 Schavey Rd,Dewitt,Pre-school - elementary,19010,DeWitt Public Schools,LEA School,912,DeWitt High School,13601 Panther Dr,Dewitt
+Shiawassee,Robert Kerr Elementary School,9591 E Monroe Rd,Durand,Pre-school - elementary,78030,Durand Area Schools,LEA School,3234,Robert Kerr School,9591 East Monroe Rd,Durand
+Ottawa,Eagle Crest Charter Academy,11950 Riley St,Holland,Junior high/middle school,70906,Eagle Crest Charter Academy,PSA School,8516,Eagle Crest Charter Academy,11950 Riley St,Holland
+Kent,Breton Downs Elementary,2500 Boston St SE,Grand Rapids,Pre-school - elementary,41090,East Grand Rapids Public Schools,LEA School,393,Breton Downs School,2500 Boston St Se,Grand Rapids
+Kent,East Kentwood High School,6230 Kalamazoo Ave SE,Kentwood,High school,41090,East Grand Rapids Public Schools,LEA School,1013,East Grand Rapids High School,2211 Lake Dr Se,Grand Rapids
+Kent,East Grand Rapids High School,2211 Lake Dr SE,East Grand Rapids,High school,41090,East Grand Rapids Public Schools,LEA School,1012,East Grand Rapids Middle School,2425 Lake Dr Se,Grand Rapids
+Kent,East Grand Rapids High School,2211 Lake Dr SE,East GR,High school,41090,East Grand Rapids Public Schools,LEA School,1012,East Grand Rapids Middle School,2425 Lake Dr Se,Grand Rapids
+Charlevoix,East Jordan Elementary,304 4th St,East Jordan,Pre-school - elementary,15060,East Jordan Public Schools,LEA School,1015,East Jordan Elementary School,304 4th St,East Jordan
+Cass,Edwardsburg Schools,69230 Section St,Edwardsburg,High school,14030,Edwardsburg Public Schools,LEA School,1094,Edwardsburg Primary School,69100 Section St,Edwardsburg
+Mackinac,Engadine Cosolidated School,W13920 Melville Street,Engadine,Junior high/middle school,49055,Engadine Consolidated Schools,LEA School,490,Engadine Schools,"W 13920 Melville St, Engadine, Mi, 49827",Engadine
+Delta,Escanaba Jr/Sr High School,500 South Lincoln Road,Escanaba,High school,21010,Escanaba Area Public Schools,LEA School,1155,Escanaba Area Public High School,500 South Lincoln Rd,Escanaba
+Delta,Webster Kindergarten Center,1213 N 19th St,Escanaba,Pre-school - elementary,21010,Escanaba Area Public Schools,LEA School,4421,Webster Elementary School,1209 North 19th St,Escanaba
+Delta,Webster Kindergarten Center,1213 North 19th Street,Escanaba,Pre-school - elementary,21010,Escanaba Area Public Schools,LEA School,4421,Webster Elementary School,1209 North 19th St,Escanaba
+Bay,EPS Cramer,213 Pine St,Essexville,Junior high/middle school,9050,Essexville-Hampton Public Schools,LEA School,1358,Garber High School,213 Pine St,Essexville
+Bay,EPS Garber,213 Pine St,Essexville,High school,9050,Essexville-Hampton Public Schools,LEA School,1358,Garber High School,213 Pine St,Essexville
+Bay,Essexville Verellen Elementary,612 Borton Rd,Essexville,Pre-school - elementary,9050,Essexville-Hampton Public Schools,LEA School,4290,Verellen Elementary School,612 Borton Rd,Essexville
+Oakland,North Farmington Highschool,32900 W 13 Mile Rd,Farmington Hills,High school,63200,Farmington Public School District,LEA School,2729,North Farmington High School,32900 West 13 Mile Rd,Farmington Hills
+Allegan,Fennville High School,4 S Memorial Dr,Fennville,High school,3050,Fennville Public Schools,LEA School,1217,Fennville Public High School,4 Memorial Dr,Fennville
+Macomb,Fitzgerald High School,23200 Ryan Rd,Warren,High school,50090,Fitzgerald Public Schools,LEA School,1242,Fitzgerald Senior High School,23200 Ryan Rd,Warren
+Genesee,North Road Elementary,525 North Rd,Fenton,Pre-school - elementary,25120,Flushing Community Schools,LEA School,585,Central Elementary School,525 Coutant St,Flushing
+Kent,Forest Hills Central High School,5901 Hall St SE,Grand Rapids,High school,41110,Forest Hills Public Schools,LEA School,1265,Central High School,5901 Hall St Se,Grand Rapids
+Kent,Forest Hills Northern High School,3801 Leonard St NE,Grand Rapids,High school,41110,Forest Hills Public Schools,LEA School,6294,Northern High School,3801 Leonard St Ne,Grand Rapids
+Clinton,Fowler Admin,700 S Main St,Fowler,Administrative,19070,Fowler Public Schools,LEA School,1284,Fowler High School,700 South Wright Rd,Fowler
+Clinton,Fowler High School Administration,700 S Main St,Fowler,High school,19070,Fowler Public Schools,LEA School,1284,Fowler High School,700 South Wright Rd,Fowler
+Saginaw,Frankenmuth High School,525 E Genesee,Frankenmuth,High school,73190,Frankenmuth School District,LEA School,1297,Frankenmuth High School,525 East Genesee St,Frankenmuth
+Saginaw,List Elementary,525 E Genesee,Frankenmuth,Pre-school - elementary,73190,Frankenmuth School District,LEA School,1297,Frankenmuth High School,525 East Genesee St,Frankenmuth
+Benzie,Frankfort Elberta Area School,534 11th,Frankfort,High school,10025,Frankfort-Elberta Area Schools,LEA School,1298,Frankfort Elementary School,613 Leelanau Ave,Frankfort
+Macomb,Fraser High School,34270 Garfield Rd,Fraser,High school,50100,Fraser Public Schools,LEA School,1308,Fraser High School,34270 Garfield Rd,Fraser
+Macomb,Walt Disney Elementary School,36155 Kelly Rd,Clinton Township,Pre-school - elementary,50100,Fraser Public Schools,LEA School,4904,Walt Disney Elementary School,36155 Kelly Rd,Clinton Township
+Newaygo,Fremont Public School,450 E Pine St,Fremont,High school,62040,Fremont Public School District,LEA School,1324,Fremont High School,5421 S Warner Ave,Fremont
+Kalamazoo,Galesburg Augusta Primary School,315 W Battle Creek St,Galesburg,Pre-school - elementary,39050,Galesburg-Augusta Community Schools,LEA School,1351,Galesburg-Augusta Primary School,315 West Battle Creek St,Galesburg
+Otsego,Gaylord Intermediate School,240 E 4th St,Gaylord,Junior high/middle school,69020,Gaylord Community Schools,LEA School,7965,Gaylord Intermediate School,240 East 4th St,Gaylord
+Genesee,Early Learning Center,3375 Van Campen Road,Flint,Pre-school - elementary,25000,Genesee ISD,ISD Unique Education Provider,1804,Early On,3375 Van Campen Road,Flint
+Genesee,Early Learning Center - Genesee Intermediate School District,3375 Van Campen Road,Flint,Pre-school - elementary,25000,Genesee ISD,ISD Unique Education Provider,1804,Early On,3375 Van Campen Road,Flint
+Wayne,Chapman Elementary School,31500 Olmstead Rd,Rockwood,Pre-school - elementary,82290,Gibraltar School District,LEA School,637,Chapman Elementary School,31500 Olmstead Rd,Rockwood
+Wayne,Carlson High School,29748 W Jefferson Ave,Rockwood,High school,82290,Gibraltar School District,LEA School,525,Oscar A. Carlson High School,30550 West Jefferson Ave,Rockwood
+Wayne,Shumate Middle School,30448 W Jefferson Ave,Gibraltar,Junior high/middle school,82290,Gibraltar School District,LEA School,6681,Shumate Middle School,30448 West Jefferson Ave,Rockwood
+Delta,Gladstone High School,2100 M35 Highway,Gladstone,High school,21025,Gladstone Area Schools,LEA School,1407,Gladstone Area Middle School,300 South 10th St,Gladstone
+Gladwin,Gladwin High School,1400 N Spring Street,Gladwin,High school,26040,Gladwin Community Schools,LEA School,1411,Gladwin Junior High School,401 North Bowery Ave,Gladwin
+Leelanau,Glen Lake Community Schools,3375 W Burdickville,Maple City,High school,45010,Glen Lake Community Schools,LEA School,1417,Glen Lake Community School,3375 West Burdickville Rd,Maple City
+Kent,Godfrey Elementary School,1920 Godfrey Ave SW,Wyoming,Pre-school - elementary,41120,Godfrey-Lee Public Schools,LEA School,1431,Godfrey Elementary School,1920 Godfrey Ave Sw,Wyoming
+Genesee,Reid Elementary,7501 Seneca St,Goodrich,Pre-school - elementary,25050,Goodrich Area Schools,LEA School,3179,Reid Elementary School,7501 Seneca St,Goodrich
+Genesee,Grand Blanc Building and Grounds,2 Jewett Trail,Grand Blanc,High school,25030,Grand Blanc Community Schools,LEA School,1453,Grand Blanc Community High School,12500 Holly Rd,Grand Blanc
+Genesee,Grand Blanc High School,12500 Holly Road,Grand Blanc,High school,25030,Grand Blanc Community Schools,LEA School,1453,Grand Blanc Community High School,12500 Holly Rd,Grand Blanc
+Genesee,Grand Blanc High School East Campus,12500 Holly Road,Grand Blanc,High school,25030,Grand Blanc Community Schools,LEA School,1453,Grand Blanc Community High School,12500 Holly Rd,Grand Blanc
+Genesee,Perry Innovation Center,11920 S Saginaw St,Grand Blanc,Pre-school - elementary,25030,Grand Blanc Community Schools,LEA School,1452,Perry Pre-Kindergarten,11920 South Saginaw St,Grand Blanc
+Ottawa,Grand Haven High School,17001 Ferris St,Grand Haven,High school,70010,Grand Haven Area Public Schools,LEA School,1317,Grand Haven Cyber School,1415 S Beechtree St,Grand Haven
+Eaton,Grand Ledge Middle School,12620 Nixon Rd,Grand Ledge,Junior high/middle school,23060,Grand Ledge Public Schools,LEA School,1457,Grand Ledge High School,820 Spring St,Grand Ledge
+Eaton,Grand Ledge Public Schools Bus Garage,12730 Nixon Rd,Grand Ledge,Administrative,23060,Grand Ledge Public Schools,LEA School,1457,Grand Ledge High School,820 Spring St,Grand Ledge
+Eaton,Hayes Middle School,12620 Nixon Rd,Grand Ledge,Junior high/middle school,23060,Grand Ledge Public Schools,LEA School,5818,Leon W. Hayes Middle School,12620 Nixon Rd,Grand Ledge
+Kent,Cesar E Chavez Elementary,1205 Grandville Ave SW,Grand Rapids,Pre-school - elementary,41010,Grand Rapids Public Schools,LEA School,1539,Cesar E. Chavez Elementary,1205 Grandville Ave Sw,Grand Rapids
+Kent,Grandville Central Elementary,4052 Prairie St SW,Grandville,Pre-school - elementary,41130,Grandville Public Schools,LEA School,594,Grandville Central Elementary School,4052 Prairie St Sw,Grandville
+Kent,Grandville High School,4700 Canal Ave SW,Grandville,High school,41130,Grandville Public Schools,LEA School,594,Grandville Central Elementary School,4052 Prairie St Sw,Grandville
+Kent,Grand Rapids Christian High School,2300 Plymouth Ave SE,Grand Rapids,High school,41130,Grandville Public Schools,LEA School,851,Grandville Cummings Elementary School,4261 Schoolcraft St Sw,Grand Rapids
+Newaygo,Grant Public Schools,148 South Elder,Grant,Junior high/middle school,62050,Grant Public School District,LEA School,1469,Grant Elementary School,160 East State Rd,Grant
+Newaygo,Grant Public Schools,148 S Elder,Grant,Junior high/middle school,62050,Grant Public School District,LEA School,1469,Grant Elementary School,160 East State Rd,Grant
+Gratiot,Gratiot-Isabella RESD,1131 E Center St,Ithaca,Administrative,29000,Gratiot-Isabella RESD,ISD,29000,,,
+Marquette,Gilbert Elementary,250 W Iron Street,Gwinn,Pre-school - elementary,52040,Gwinn Area Community Schools,LEA School,2689,George D. Gilbert Elementary School,250 W Iron Street,Gwinn
+Marquette,Gwinn Middle/High School,50 W M35,Gwinn,Junior high/middle school,52040,Gwinn Area Community Schools,LEA School,1527,Gwinn Middle/High School,50 West State Highway M35,Gwinn
+Houghton,Hancock High School,501 Campus Drive,Hancock,High school,31010,Hancock Public Schools,LEA School,1555,Hancock Middle/High School,501 Campus Dr,Hancock
+Houghton,Hancock Public Schools,501 Campus Drive,Hancock,High school,31010,Hancock Public Schools,LEA School,1555,Hancock Middle/High School,501 Campus Dr,Hancock
+Huron,Harbor Beach High School,402 S 5th St,Harbor Beach,High school,32060,Harbor Beach Community Schools,LEA School,1563,Harbor Beach Community High School,402 South 5th St,Harbor Beach
+Huron,Harbor Beach Schools,402 S 5th St,Harbor Beach,High school,32060,Harbor Beach Community Schools,LEA School,1563,Harbor Beach Community High School,402 South 5th St,Harbor Beach
+Emmet,Harbor Springs High School,500 N Spring St,Harbor Springs,High school,24020,Harbor Springs School District,LEA School,1564,Harbor Springs High School,500 N Spring St,Harbor Spgs
+Clare,Harrison Middle School,710 S Fifth Street,Harrison,Junior high/middle school,18060,Harrison Community Schools,LEA School,1583,Harrison Community High School,700 South 5th St,Harrison
+Van Buren,Hartford,Redwood,Hartford,Pre-school - elementary,80120,Hartford Public Schools,LEA School,1598,Hartford High School,121 School St,Hartford
+Barry,McFall Elementary,509 W Main St,Middleville,Pre-school - elementary,8030,Hastings Area School District,LEA School,1606,Central Elementary School,509 South Broadway St,Hastings
+Newaygo,Hesperia Public Schools,96 S Division St,Hesperia,High school,62060,Hesperia Community Schools,LEA School,1654,Patricia St. Clair Elementary School,96 South Division St,Hesperia
+Hillsdale,Davis Middle School,30 N West Street,Hillsdale,Junior high/middle school,30020,Hillsdale Community Schools,LEA School,876,Davis Middle School,30 North West St,Hillsdale
+Ottawa,Holland High School,600 Van Raalte Ave,Holland,High school,70020,Holland City School District,LEA School,1697,Holland High School,600 Van Raalte Ave,Holland
+Ingham,Messiah Child Development Center,5740 Holt Rd,Holt,Pre-school - elementary,33070,Holt Public Schools,LEA School,7796,Horizon Elementary School,5776 Holt Rd,Holt
+Houghton,Houghton High School,1603 Gundlach Road,Houghton,High school,31110,Houghton-Portage Township School District,LEA School,1766,Houghton Central High School,1603 Gundlach Rd,Houghton
+Houghton,Houghton-Portage Township High School,1603 Gundlach Road,Houghton,High school,31110,Houghton-Portage Township School District,LEA School,1766,Houghton Central High School,1603 Gundlach Rd,Houghton
+Livingston,Howell High School,1200 W Grand River Ave,Howell,High school,47070,Howell Public Schools,LEA School,2436,Howell High School,1200 West Grand River Ave,Howell
+Livingston,Hutchings Elementary School,3503 Bigelow Road,Howell,Pre-school - elementary,47070,Howell Public Schools,LEA School,9167,Ruahmah J. Hutchings Elementary,3503 Bigelow Rd,Howell
+Lenawee,Hudson Elementary,746 N Maple Grove Ave,Hudson,Pre-school - elementary,46080,Hudson Area Schools,LEA School,919,Hudson Tech Alternative,550 E Main St.,Hudson
+Lenawee,Hudson Schools,746 N Maple Grove Ave,Hudson,Pre-school - elementary,46080,Hudson Area Schools,LEA School,919,Hudson Tech Alternative,550 E Main St.,Hudson
+Ottawa,Hudsonville High School,5051 32nd Ave,Hudsonville,High school,70190,Hudsonville Public School District,LEA School,1784,Hudsonville Freshman Building,3370 Allen St,Hudsonville
+Ottawa,Hudsonville High School,5037 32nd Ave,Hudsonville,High school,70190,Hudsonville Public School District,LEA School,1784,Hudsonville Freshman Building,3370 Allen St,Hudsonville
+Ottawa,Park Elementary,5525 Park Ave,Hudsonville,Pre-school - elementary,70190,Hudsonville Public School District,LEA School,1787,Park Elemementary School,5525 Park Ave,Hudsonville
+Monroe,Ida Elementary School,7900 Ida Street,Ida,Pre-school - elementary,58070,Ida Public School District,LEA School,1806,Ida Elementary School,7900 Ida St,Ida
+Lapeer,Imlay City High School,1001 Norlin Dr,Imlay City,High school,44060,Imlay City Community Schools,LEA School,1811,Imlay City High School,1001 Norlin Dr,Imlay City
+Lapeer,Weston Elementary,275 Weston St,Imlay City,Pre-school - elementary,44060,Imlay City Community Schools,LEA School,1812,Weston Elementary School,275 Weston St,Imlay City
+Marquette,Ishpeming Middle/High School,319 E Division Street,Ishpeming,Junior high/middle school,52180,Ishpeming Public School District No. 1,LEA School,481,Ishpeming Middle School,324 E Pearl St,Ishpeming
+Jackson,Jackson Christian,4200 Lowe Rd,Jackson,Junior high/middle school,38170,Jackson Public Schools,LEA School,1870,Jackson High School,544 Wildwood Ave,Jackson
+Ottawa,Jenison High School,2140 Bauer Rd,Jenison,High school,70175,Jenison Public Schools,LEA School,893,Jenison International Academy,800 Connie St,Jenison
+Ottawa,Rose Park Christian School,556 Butternut Dr,Holland,Pre-school - elementary,70175,Jenison Public Schools,LEA School,6169,Rosewood School,2370 Tyler St,Jenison
+Otsego,Johannesburg-Lewiston Elementary,10854 M32,Johannesburg,Pre-school - elementary,69030,Johannesburg-Lewiston Area Schools,LEA School,1935,Johannesburg-Lewiston High School,10854 M 32 E,Johannesburg
+Kent,Kenowa Hills Central Elementary,4252 3 Mile Rd NW,Grand Rapids,Pre-school - elementary,41145,Kenowa Hills Public Schools,LEA School,305,Kenowa Hills Early Childhood Center,3971 Richmond St Nw,Grand Rapids
+Kent,Kenowa Hills High School,3825 Hendershot Ave NW,Grand Rapids,High school,41145,Kenowa Hills Public Schools,LEA School,305,Kenowa Hills Early Childhood Center,3971 Richmond St Nw,Grand Rapids
+Kent,Zinser Elementary School,1234 Kinney Ave NW,Grand Rapids,Pre-school - elementary,41145,Kenowa Hills Public Schools,LEA School,4627,Zinser Elementary School,3949 Leonard St. Nw,Grand Rapids
+Kent,Kent City Elementary,29 College St,Kent City,Pre-school - elementary,41150,Kent City Community Schools,LEA School,1113,Kent City Alternative High School,200 N Clover St,Kent City
+Kent,Kent City High School,351 N Main St,Kent City,High school,41150,Kent City Community Schools,LEA School,1113,Kent City Alternative High School,200 N Clover St,Kent City
+Grand Traverse,Kingsley High School,7475 Kingsley Rd,Kingsley,High school,28090,Kingsley Area Schools,LEA School,2041,Kingsley Area High School,7475 Kingsley Rd,Kingsley
+Grand Traverse,Kingsley High School Football Team,7475 Kingsley Rd,Kingsley,High school,28090,Kingsley Area Schools,LEA School,2041,Kingsley Area High School,7475 Kingsley Rd,Kingsley
+Macomb,Dakota High School,21051 21 Mile Rd,Macomb,High school,50140,L'Anse Creuse Public Schools,LEA School,6487,L'Anse Creuse High School - North,23700 21 Mile Rd,Macomb
+Macomb,Tenniswood Elementary,23450 Glenwood St,Clinton Township,Pre-school - elementary,50140,L'Anse Creuse Public Schools,LEA School,6488,Tenniswood Elementary School,23450 Glenwood St,Clinton Township
+Shiawassee,Laingsburg HS,8008 Woodbury Rd,Laingsburg,High school,78040,Laingsburg Community Schools,LEA School,2070,Laingsburg Elementary School,117 Prospect St,Laingsburg
+Macomb,Kennedy Middle School,23101 Masonic,St. Clair Shores,Junior high/middle school,50120,Lake Shore Public Schools (Macomb),LEA School,5197,Kennedy Middle School,23101 Masonic Blvd,Saint Clair Shores
+Berrien,Lakeshore High School,5771 Cleveland Ave,Stevensville,High school,11030,Lakeshore School District (Berrien),LEA School,2095,Lakeshore High School,5771 Cleveland Ave,Stevensville
+Macomb,Lakeshore High School,22980 13 Mile Rd,St. Clair Shores,High school,11030,Lakeshore School District (Berrien),LEA School,2095,Lakeshore High School,5771 Cleveland Ave,Stevensville
+Ottawa,Lakeshore Middle School,900 Cutler St,Grand Haven,Junior high/middle school,11030,Lakeshore School District (Berrien),LEA School,2097,Lakeshore Middle School,1459 West John Beers Rd,Stevensville
+Montcalm,Lakeview Comm Schools,9800 Youngman Rd,Lakeview,High school,59090,Lakeview Community Schools (Montcalm),LEA School,2103,Lakeview Middle School,516 Washington St,Lakeview
+Macomb,Ardmore Elementary,27001 Greater Mack Ave,St. Clair Shores,Pre-school - elementary,50130,Lakeview Public Schools (Macomb),LEA School,116,Ardmore Elementary School,27001 Greater Mack Ave,Saint Clair Shores
+Macomb,Jefferson Middle School,27900 Rockwood St,St. Clair Shores,Junior high/middle school,50130,Lakeview Public Schools (Macomb),LEA School,677,Jefferson Middle School,27900 Rockwood St,Saint Clair Shores
+Midland,Jefferson Middle School,800 W Chapel Lane,Midland,Junior high/middle school,50130,Lakeview Public Schools (Macomb),LEA School,677,Jefferson Middle School,27900 Rockwood St,Saint Clair Shores
+St. Clair,Landmark Academy,4800 Lapeer Rd,Kimball,High school,74903,Landmark Academy,PSA School,8701,Landmark Academy,4800 Lapeer Rd,Kimball
+Lapeer,Lapeer High School,933 S Saginaw St,Lapeer,High school,44010,Lapeer Community Schools,LEA School,6596,Lapeer High School,933 South Saginaw St,Lapeer
+Lapeer,Rolland Warner,3145 W Genesee St,Lapeer,Junior high/middle school,44010,Lapeer Community Schools,LEA School,245,Rolland Warner Campus 6/7,3145 W Genesee Street,Lapeer
+Lapeer,Turrill Elementary,785 S Elm St,Lapeer,Pre-school - elementary,44010,Lapeer Community Schools,LEA School,4233,Turrill Elementary School,785 South Elm St,Lapeer
+Lapeer,Zemmer,1920 W Oregon St,Lapeer,Junior high/middle school,44010,Lapeer Community Schools,LEA School,294,Zemmer Campus 8/9,1920 W. Oregon,Lapeer
+Van Buren,Lawton Public School,780 E 2nd St,Lawton,High school,80140,Lawton Community School District,LEA School,2141,Lawton Elementary School,100 Primary Way,Lawton
+Leelanau,Leland Public School,200 N Grand,Leland,High school,45020,Leland Public School District,LEA School,2155,Leland Public School,200 North Grand Ave,Leland
+Lenawee,Lenawee TECH Center,1372 N Main St,Adrian,High school,46000,Lenawee ISD,ISD Unique Education Provider,5975,LISD TECH Center,1372 North Main St,Adrian
+Lenawee,LISD Tech,1372 N Main St,Adrian,High school,46000,Lenawee ISD,ISD Unique Education Provider,5975,LISD TECH Center,1372 North Main St,Adrian
+Mackinac,Les Cheneaux Community School,298 M134,Cedarville,Junior high/middle school,49040,Les Cheneaux Community Schools,LEA School,2163,Cedarville School,298 East Highway M-134,Cedarville
+Washtenaw,Lincoln Middle School,7425 Willis Rd,Ypsilanti,Junior high/middle school,81070,Lincoln Consolidated School District,LEA School,5166,Lincoln Middle School,8744 Whittaker Rd,Ypsilanti
+Genesee,Hyatt Elementary,325 Stan Eaton Dr,Linden,Pre-school - elementary,25250,Linden Community Schools,LEA School,9359,Hyatt Elementary,325 Stan Eaton Dr,Linden
+Washtenaw,Livingston Classical Academy,8877 Main St,Whitmore Lake,Pre-school - elementary,81913,Livingston Classical Academy,PSA School,2932,Livingston Classical Academy,8877 Main Street,Whitmore Lake
+Wayne,Salem High School,46181 Joy Rd,Canton,High school,82095,Livonia Public Schools School District,LEA School,1302,Franklin High School,31000 Joy Rd,Livonia
+Kent,Lowell High School,11700 Vergennes St SE,Lowell,High school,41170,Lowell Area Schools,LEA School,2272,Lowell Senior High School,11700 Vergennes St,Lowell
+Kent,Lowell Middle School,750 Foreman St SE,Lowell,Junior high/middle school,41170,Lowell Area Schools,LEA School,2272,Lowell Senior High School,11700 Vergennes St,Lowell
+Macomb,Macomb Intermediate School District,44001 Garfield,Clinton Township,Pre-school - elementary,50901,Macomb Academy,PSA School,8051,Macomb Academy,39092 Garfield Rd,Clinton Township
+Lenawee,Madison Schools,3498 Treat Hwy,Madison,Junior high/middle school,46090,Madison School District (Lenawee),LEA School,2315,Madison Elementary School,3498 Treat Hwy,Adrian
+Washtenaw,Manchester Community Schools,710 E Main St,Manchester,Junior high/middle school,81080,Manchester Community Schools,LEA School,2335,Manchester Junior/Senior High School,20500 Dutch Dr,Manchester
+Manistee,Kennedy Elementary School,550 Maple St,Manistee,Pre-school - elementary,51070,Manistee Area Public Schools,LEA School,2016,John F. Kennedy Elem. School,550 Maple St,Manistee
+Manistee,Manistee High School,525 12th St,Manistee,High school,51070,Manistee Area Public Schools,LEA School,2339,Manistee Middle High School,525 12th St,Manistee
+Schoolcraft,Emerald Elementary School,628 Oak Street,Manistique,Pre-school - elementary,77010,Manistique Area Schools,LEA School,5219,Emerald Elementary School,628 Oak Street,Manistique
+Barry,Fuller Street Elementary,251 Fuller St,Nashville,Pre-school - elementary,23065,Maple Valley Schools,LEA School,1339,Fuller Street Elementary School,251 Fuller St,Nashville
+Van Buren,Volinia Outcomes,54080 Gards Prairie Road,Decatur,High school,14050,Marcellus Community Schools,LEA School,4312,Volinia Outcome Base School,54080 Gards Pr,Marcellus
+Sanilac,Marlette Community Schools,6230 Euclid St,Marlette,High school,76140,Marlette Community Schools,LEA School,230,Marlette Elementary,6230 Euclid St,Marlette
+Marquette,Bothwell,1200 Tierney,Marquette,Junior high/middle school,52170,Marquette Area Public Schools,LEA School,6268,Bothwell Middle School,1200 Tierney St,Marquette
+Marquette,Bothwell,1200 Tierney,Marquette,Pre-school - elementary,52170,Marquette Area Public Schools,LEA School,6268,Bothwell Middle School,1200 Tierney St,Marquette
+Marquette,Bothwell Elementary,1200 Tierney Street,Marquette,Pre-school - elementary,52170,Marquette Area Public Schools,LEA School,6268,Bothwell Middle School,1200 Tierney St,Marquette
+Marquette,Bothwell Middle School,1200 Tierney,Marquette,Junior high/middle school,52170,Marquette Area Public Schools,LEA School,6268,Bothwell Middle School,1200 Tierney St,Marquette
+Marquette,Cherry Creek Elementary,1111 Ortmann,Marquette,Pre-school - elementary,52170,Marquette Area Public Schools,LEA School,7822,Cherry Creek Elementary School,1111 Ortman Rd,Marquette
+Marquette,Graveraet,611 N Front Street,Marquette,Pre-school - elementary,52170,Marquette Area Public Schools,LEA School,2312,Graveraet Elementary School,611 N Front St,Marquette
+Marquette,Graveraet Elementary,611 N Front Street,Marquette,Pre-school - elementary,52170,Marquette Area Public Schools,LEA School,2312,Graveraet Elementary School,611 N Front St,Marquette
+Marquette,Marquette Alternative High School,1175 Erie Street,Marquette,High school,52170,Marquette Area Public Schools,LEA School,2389,Marquette Senior High School,1203 West Fair Ave,Marquette
+Marquette,Marquette Senior High School,1203 W Fair Ave,Marquette,High school,52170,Marquette Area Public Schools,LEA School,2389,Marquette Senior High School,1203 West Fair Ave,Marquette
+Marquette,Sandy Knoll,401 6th Street,Marquette,Pre-school - elementary,52170,Marquette Area Public Schools,LEA School,3402,Sandy Knoll School,401 North 6th St,Marquette
+Marquette,Superior Hills Elementary,1201 S McClellan,Marquette,Pre-school - elementary,52170,Marquette Area Public Schools,LEA School,1238,Superior Hills Elementary School,1201 South Mcclellan Ave,Marquette
+Allegan,Martin High School,1556 Chalmers St,Martin,High school,3060,Martin Public Schools,LEA School,2402,Martin High School,1556 Chalmers,Martin
+Monroe,Mason Middle School,2260 Lakeside Rd,Ira,Junior high/middle school,58090,Mason Consolidated Schools (Monroe),LEA School,2422,Mason Central School,2410 Lakeside Dr,Erie
+Monroe,Mason Middle School,2260 Lakeside Rd,Erie,Junior high/middle school,58090,Mason Consolidated Schools (Monroe),LEA School,2422,Mason Central School,2410 Lakeside Dr,Erie
+Van Buren,Mattawan Public School,56487 Western St,Mattawan,High school,80150,Mattawan Consolidated School,LEA School,2438,Mattawan Early Elem. School,56720 Murray St,Mattawan
+Van Buren,Mattawan School,56487 Western St,Mattawan,High school,80150,Mattawan Consolidated School,LEA School,2438,Mattawan Early Elem. School,56720 Murray St,Mattawan
+Missaukee,McBain Public Schools,107 E Maple,McBain,Pre-school - elementary,57030,McBain Rural Agricultural Schools,LEA School,2468,McBain High School,107 East Maple St,Mc Bain
+Menominee,Menominee Jr/Sr High School,2101 18th Street,Menominee,High school,55100,Menominee Area Public Schools,LEA School,2514,Menominee Jr High School,2101 18th St,Menominee
+Wayne,Metro Charter Academy,34800 Ecorse Rd,Romulus,Pre-school - elementary,82967,Metro Charter Academy,PSA School,8799,Metro Charter Academy,34800 Ecorse Rd,Romulus
+Jackson,Arnold Elementary,4064 Page Avenue,Michigan Center,Pre-school - elementary,38120,Michigan Center School District,LEA School,122,Arnold Elementary School,4064 Page Ave,Michigan Center
+Jackson,Keicher Elementary,137 Broad Street,Michigan Center,Pre-school - elementary,38120,Michigan Center School District,LEA School,3138,Keicher Elementary School,137 Broad St,Michigan Center
+Midland,ESA - Sugnet Building,3917 Jefferson Ave,Midland,Administrative,56000,Midland County Educational Service Agency,ISD School,8857,MCESA and Sugnet School Classroom Programs,3917 Jefferson Ave,Midland
+Midland,ESA - Sugnet Building,3917 Jefferson Ave,Midland,Junior high/middle school,56000,Midland County Educational Service Agency,ISD School,8857,MCESA and Sugnet School Classroom Programs,3917 Jefferson Ave,Midland
+Midland,Siebert Elementary,5700 Siebert,Midland,Pre-school - elementary,56010,Midland Public Schools,LEA School,3475,Siebert School,5700 Siebert St,Midland
+Isabella,Montabella Elem,1456 North County Line Rd,Blanchard,Pre-school - elementary,59045,Montabella Community Schools,LEA School,346,Montabella Elementary,1456 East N County Line Rd,Blanchard
+Lenawee,Morenci Schools,788 Coomer St,Morenci,High school,46100,Morenci Area Schools,LEA School,6078,Morenci Middle and High School,788 E. Coomer St,Morenci
+Mecosta,Morley Stanwood School,4700 Northland Dr,Morley,Pre-school - elementary,54040,Morley Stanwood Community Schools,LEA School,2610,Morley Stanwood Elementary School,4808 Northland Dr,Morley
+Macomb,Mount Clemens Middle School,161 Cass Ave,Mount Clemens,Junior high/middle school,50160,Mount Clemens Community School District,LEA School,2624,Mount Clemens High School,155 Cass Ave,Mount Clemens
+Alger,Munising Public Schools,810 M28,Munising,Junior high/middle school,2070,Munising Public Schools,LEA School,1928,Munising High and Middle School,810 East State Highway M28,Munising
+Alger,Mather Elementary School,411 Elm Street,Munising,Pre-school - elementary,2070,Munising Public Schools,LEA School,597,William G. Mather Elementary School,411 Elm Ave,Munising
+Marquette,Lakeview,200 Croix,Negaunee,Pre-school - elementary,52090,Negaunee Public Schools,LEA School,2108,Lakeview School,200 Croix St,Negaunee
+Montcalm,Lakeview,9800 Youngman Rd,Lakeview,High school,52090,Negaunee Public Schools,LEA School,2108,Lakeview School,200 Croix St,Negaunee
+Marquette,Lakeview Elementary,200 Croix Street,Negaunee,Pre-school - elementary,52090,Negaunee Public Schools,LEA School,2108,Lakeview School,200 Croix St,Negaunee
+Marquette,Lakeview School,200 Croix,Negaunee,Pre-school - elementary,52090,Negaunee Public Schools,LEA School,2108,Lakeview School,200 Croix St,Negaunee
+Marquette,Negaunee,500 W Arch Street,Negaunee,High school,52090,Negaunee Public Schools,LEA School,621,Negaunee Middle School,102 West Case St,Negaunee
+Marquette,Negaunee High School,500 W Arch Street,Negaunee,High school,52090,Negaunee Public Schools,LEA School,621,Negaunee Middle School,102 West Case St,Negaunee
+Marquette,Negaunee Middle School,102 W Case Street,Negaunee,Junior high/middle school,52090,Negaunee Public Schools,LEA School,621,Negaunee Middle School,102 West Case St,Negaunee
+Macomb,Lakeview High School,21100 E 11 Mile Rd,St. Clair Shores,High school,50170,New Haven Community Schools,LEA School,825,Lake Huron Virtual & Hybrid High School,57700 Gratiot Avenue,New Haven
+Newaygo,Newaygo Public Schools,68 East St,Newaygo,High school,62070,Newaygo Public School District,LEA School,2688,Newaygo High School,200 East St,Newaygo
+Marquette,Aspen Ridge School,350 Aspen Ridge School Rd,Ishpeming,Pre-school - elementary,52015,NICE Community School District,LEA School,8499,Aspen Ridge Elementary School,350 Aspen Ridge School Rd,Ishpeming
+Marquette,Westwood High School,300 S Westwood Drive,Ishpeming,High school,52015,NICE Community School District,LEA School,6054,Westwood High School,300 South Westwood Dr,Ishpeming
+Lapeer,North Branch,4055 Elm Creek Rd,Lapeer,Pre-school - elementary,44090,North Branch Area Schools,LEA School,5603,North Branch Elementary School,4055 Elm Creek Rd,North Branch
+Lapeer,North Branch Elementary,4055 Elm Creek Rd,North Branch,Pre-school - elementary,44090,North Branch Area Schools,LEA School,2718,North Branch High School,6598 Brush St,North Branch
+Lapeer,North Branch High School,6598 Brush St,North Branch,High school,44090,North Branch Area Schools,LEA School,2718,North Branch High School,6598 Brush St,North Branch
+Lapeer,Ruth Fox Middle School,6570 Brush Street,North Branch,Junior high/middle school,44090,North Branch Area Schools,LEA School,6185,Ruth Fox Middle School,6570 Brush St,North Branch
+Menominee,North Central Area Schools,W3795 US2 & 41,Powers,High school,55115,North Central Area Schools,LEA School,3114,North Central Area Senior High School,3795 Hwy Us 2 & 41,Powers
+Menon,North Central Area Schools,W3795 US2 & 41,Powers,High school,55115,North Central Area Schools,LEA School,3114,North Central Area Senior High School,3795 Hwy Us 2 & 41,Powers
+Leelanau,Northport Public Schools,104 Wing St,Northport,Pre-school - elementary,45040,Northport Public School District,LEA School,2764,Northport Public School,104 Wing St,Northport
+Oakland,Thornton Creek Elementary,46180 W 9 Mile Rd,Novi,Pre-school - elementary,82390,Northville Public Schools,LEA School,7964,Thornton Creek Elementary School,46180 West 9 Mile Rd,Novi
+Jackson,Northwest High School,4200 VanHorn Rd,Jackson,High school,38140,Northwest Community Schools,LEA School,2774,Northwest Kidder Middle School,6700 Rives Junction Rd,Jackson
+Oakland,Novi High School,24062 Taft Rd,Novi,High school,63100,Novi Community School District,LEA School,2788,Novi Woods Elementary School,25195 Taft Rd,Novi
+Oakland,Oakland Schools Technical Campus Northwest,8211 Big Lake Rd,Village of Clarkston,Administrative,63000,Oakland Schools,ISD Unique Education Provider,8813,Oakland Schools Technical Campus--NW,8211 Big Lake Rd,Clarkston
+Eaton,Olivet High School,255 1st St,Olivet,High school,23080,Olivet Community Schools,LEA School,2828,Olivet High School,255 First St,Olivet
+Ottawa,Young Adult Services,605 Elliot Avenue,Grand Haven,High school,70000,Ottawa Area ISD,ISD Unique Education Provider,3136,Elliott Street Bldg,605 Elliott Street,Grand Haven
+Ottawa,Ottawa Area Center,10160 96th Ave,Allendale,Junior high/middle school,70000,Ottawa Area ISD,ISD School,1054,Ottawa Area Center,10160 96th Ave,Allendale
+Shiawassee,Owosso High School,765 E North St,Owosso,High school,78110,Owosso Public Schools,LEA School,2920,Owosso Middle School,219 North Water St,Owosso
+Oakland,Oxford Middle School,1420 Lakeville Rd,Oxford,Junior high/middle school,63110,Oxford Community Schools,LEA School,382,Oxford Bridges High School,1420 E Lakeville Rd,Oxford
+Van Buren,Paw Paw High School,Red Arrow Hwy,Paw Paw,High school,80160,Paw Paw Public School District,LEA School,341,Paw Paw Early Elementary School,512 West North St,Paw Paw
+Bay,Pinny Central,,,,9090,Pinconning Area Schools,LEA School,3041,Pinconning Central Elementary School,609 West 5th St,Pinconning
+Kalamazoo,Cooper Elementary School,7559 14th St N,Kalamazoo,Pre-school - elementary,3010,Plainwell Community Schools,LEA School,790,Cooper Elementary School,7559 North 14th St,Kalamazoo
+Allegan,Plainwell High School,684 Starr Rd,Plainwell,High school,3010,Plainwell Community Schools,LEA School,3065,Plainwell High School,684 Starr Rd,Plainwell
+Wayne,Plymouth High School,8400 N Beck Rd,Canton,High school,82100,Plymouth-Canton Community Schools,LEA School,8997,Plymouth High School,8400 North Beck Rd,Canton
+St. Clair,Port Huron High School,2215 Court St,Port Huron,High school,74010,Port Huron Area School District,LEA School,3092,Port Huron High School,2215 Court St,Port Huron
+Menominee,Central Elementary School,1800 18th Avenue,Menominee,Pre-school - elementary,39140,Portage Public Schools,LEA School,583,Central Elementary School,8422 South Westnedge Ave,Portage
+Ionia,Portland St Patrick,140 Church St,Portland,High school,34110,Portland Public Schools,LEA School,3098,Portland High School,1100 Ionia Rd,Portland
+Emmet,Ottawa GSRP,871 Kalamazoo ave,Petoskey,Pre-school - elementary,24070,Public Schools of Petoskey,LEA School,2867,Ottawa Elementary School,871 Kalamazoo Ave,Petoskey
+Delta,Rapid River Schools,10070 Hwy US2,Rapid River,Junior high/middle school,21060,Rapid River Public Schools,LEA School,3151,Tri-Township School,10070 Us Highway 2,Rapid River
+Macomb,Richmond High School,35320 Division Rd,Richmond,High school,50180,Richmond Community Schools,LEA School,3193,Richmond Community High School,35320 Division Rd,Richmond
+Macomb,Richmond Middle School,35250 Division Rd,Richmond,Junior high/middle school,50180,Richmond Community Schools,LEA School,3193,Richmond Community High School,35320 Division Rd,Richmond
+Berrien,Three Oaks Elementary,100 Oak Street,Three Oaks,Pre-school - elementary,11033,River Valley School District,LEA School,4180,Three Oaks Elementary School,100 Oak St,Three Oaks
+Oakland,Brookfield Academy,3950 Livernois Rd,Troy,Pre-school - elementary,63260,Rochester Community School District,LEA School,410,Brooklands Elementary School,490 East Auburn Rd,Rochester Hills
+Oakland,Rochester High School,1361 Walton Blvd,Rochester Hills,High school,63260,Rochester Community School District,LEA School,3242,Rochester High School,180 South Livernois Rd,Rochester Hills
+Kent,Parkside Elementary,156 Lewis St,Rockford,Pre-school - elementary,41210,Rockford Public Schools,LEA School,2958,Parkside Elementary School,156 Lewis St,Rockford
+Kent,Rockford High School and Freshman Center,4100 Kroes St NE,Rockford,High school,41210,Rockford Public Schools,LEA School,3246,Rockford High School,4100 Kroes St Ne,Rockford
+Kent,Rockford HS and Freshman Center,4100 Kroes St NE,Rockford,High school,41210,Rockford Public Schools,LEA School,3246,Rockford High School,4100 Kroes St Ne,Rockford
+Macomb,Romeo High School,11091 32 Mile Rd,Romeo,High school,50190,Romeo Community Schools,LEA School,3256,Romeo High School,62300 Jewell Rd,Washington
+Macomb,Eastland Middle School,18700 Frank St,Roseville,Junior high/middle school,50030,Roseville Community Schools,LEA School,1050,Eastland Middle School,18700 Frank St,Roseville
+Macomb,Fountain Elementary,16850 WELLINGTON,Roseville,Pre-school - elementary,50030,Roseville Community Schools,LEA School,1279,Fountain Elementary School,16850 Wellington,Roseville
+Macomb,Roseville High School,17855 Common Rd,Roseville,High school,50030,Roseville Community Schools,LEA School,5596,Roseville High School,17855 Common Rd,Roseville
+Macomb,Roseville Middle School,16250 Martin Rd,Roseville,Junior high/middle school,50030,Roseville Community Schools,LEA School,3295,Roseville Middle School,16250 Martin Rd,Roseville
+Oakland,Oakland Christian Elementary School,3075 Shimmons Rd,Auburn Hills,Pre-school - elementary,63040,Royal Oak Schools,LEA School,2805,Oakland Elementary School,2415 Brockton Ave,Royal Oak
+Saginaw,Saginaw Preparatory Academy,5173 Lodge,Buena Vista,Pre-school - elementary,73900,Saginaw Covenant Academy,PSA School,3044,Saginaw Covenant Academy,508 S Washington Ave,Saginaw
+Saginaw,Arrowwood Elementary,5410 Seidel,Saginaw,Pre-school - elementary,73040,Saginaw Township Community Schools,LEA School,4954,Arrowwood Elementary School,5410 Seidel Rd,Saginaw
+Saginaw,Weiss Elementary,4645 Weiss Street,Saginaw,Pre-school - elementary,73040,Saginaw Township Community Schools,LEA School,4425,Weiss Elementary School,4645 Weiss St,Saginaw
+Saginaw,Heritage High School,3465 Center Road,Saginaw,High school,73010,"Saginaw, School District of the City of",LEA School,1645,Herig School,1905 Houghton Ave,Saginaw
+Washtenaw,Saline Middle School,7190 N Maple Rd,Ann Arbor,Junior high/middle school,81120,Saline Area Schools,LEA School,3385,Saline Middle School,7190 North Maple Rd,Saline
+Oceana,Shelby High School,641 N State St,Shelby,High school,64080,Shelby Public Schools,LEA School,3454,Shelby High School,641 North State St,Shelby
+Oakland,Sayre Elementary,23000 Valerie St,South Lyon,Pre-school - elementary,63240,South Lyon Community Schools,LEA School,3496,Sayre Elementary School,23000 Valerie St,South Lyon
+Wayne,Davidson Middle School,15800 Trenton Rd,Southgate,Junior high/middle school,82405,Southgate Community School District,LEA School,875,Davidson Middle School,15800 Trenton Rd,Southgate
+Kent,Sparta High School,475 West Spartan Drive,Sparta,High school,41240,Sparta Area Schools,LEA School,3560,Sparta Senior High School,475 West Spartan Dr,Sparta
+Kent,Sparta Middle School,480 S State St,Sparta,Junior high/middle school,41240,Sparta Area Schools,LEA School,3560,Sparta Senior High School,475 West Spartan Dr,Sparta
+Ottawa,Holmes Elementary School,426 River St,Spring Lake,Pre-school - elementary,70300,Spring Lake Public Schools,LEA School,1704,Holmes Elementary School,426 River St,Spring Lake
+Ottawa,Spring Lake High School,16140 148th Ave,Spring Lake,High school,70300,Spring Lake Public Schools,LEA School,3567,Spring Lake High School,16140 148th Ave,Spring Lake
+Jackson,Springport High School,300 W Main St,Springport,High school,38150,Springport Public Schools,LEA School,3573,Springport Elementary School,300 West Main St,Springport
+Arenac,Standish-Sterling Elementary ,3789 Wyatt Road,Standish,Pre-school - elementary,6050,Standish-Sterling Community Schools,LEA School,4049,Standish-Sterling Central Elementary School,3789 Wyatt Road,Standish
+Arenac,Standish-Sterling High School,2401 Grove Street Road,Standish,High school,6050,Standish-Sterling Community Schools,LEA School,4049,Standish-Sterling Central Elementary School,3789 Wyatt Road,Standish
+St. Joseph,Jerolene School,303 E Jerolene,Sturgis,Pre-school - elementary,75010,Sturgis Public Schools,LEA Unique Education Provider,2081,Jerolene,303 E Jerolene St,Sturgis
+Montcalm,Vestaburg Comm Schools,7188 Ave B,Vestaburg,Administrative,59900,Success Virtual Learning Centers of Michigan,PSA School,3014,Success Virtual Learning Centers of Michigan,7188 Avenue B,Vestaburg
+Alger,Superior Central School - Elementary,E2865 M94,Eben Junction,Pre-school - elementary,2080,Superior Central School District,LEA School,4860,Superior Central School,E2865 State Rd 94,Eben Junction
+Alger,Superior Central Schools - Middle/High,E2865 M94,Eben Junction,Junior high/middle school,2080,Superior Central School District,LEA School,4860,Superior Central School,E2865 State Rd 94,Eben Junction
+Leelanau,Suttons Bay High School,310 Elm,Suttons Bay,High school,45050,Suttons Bay Public Schools,LEA School,726,Suttons Bay Virtual School,310 Elm St,Suttons Bay
+Leelanau,Suttons Bay High School,500 S Elm,Suttons Bay,High school,45050,Suttons Bay Public Schools,LEA School,726,Suttons Bay Virtual School,310 Elm St,Suttons Bay
+Genesee,Diek Elementary School,2239 South Van Vleet Road,Swartz Creek,Pre-school - elementary,25180,Swartz Creek Community Schools,LEA School,5769,Dieck Elementary School,2239 Van Vleet Rd,Swartz Creek
+Genesee,Diek Elementary School,2239 S Van Vleet Rd,Swartz Creek,Pre-school - elementary,25180,Swartz Creek Community Schools,LEA School,5769,Dieck Elementary School,2239 Van Vleet Rd,Swartz Creek
+Iosco,Tawas Area High School,255 M55,Tawas City,High school,35030,Tawas Area Schools,LEA School,4133,Tawas Area High School,255 West M 55,Tawas City
+Iosco,Tawas Area Schools,255 M55,Tawas City,High school,35030,Tawas Area Schools,LEA School,4133,Tawas Area High School,255 West M 55,Tawas City
+Lenawee,Tecumseh High School,760 Brown St,Tecumseh,High school,46140,Tecumseh Public Schools,LEA School,1931,Tecumseh Virtual Academy,760 Brown St,Tecumseh
+Barry,Thornapple Kellogg High School,3885 Bender Rd,Middleville,High school,8050,Thornapple Kellogg School District,LEA School,4176,Thornapple Kellogg High School,3885 Bender Rd,Middleville
+Barry,Thornapple Kellogg Middle School,10375 Green Lake Rd,Middleville,Junior high/middle school,8050,Thornapple Kellogg School District,LEA School,4176,Thornapple Kellogg High School,3885 Bender Rd,Middleville
+Mackinac,Three Lakes Academy,W17540 Main Street,Curtis,Pre-school - elementary,49901,Three Lakes Academy,PSA School,130,Three Lakes Academy,W17540 Main St,Curtis
+Grand Traverse,Central High School,1150 Milliken Dr,Traverse City,High school,28010,Traverse City Area Public Schools,LEA School,4200,Central High School,1150 Milliken Dr,Traverse City
+Grand Traverse,Traverse City Central High School,1150 Milliken Dr,Traverse City,High school,28010,Traverse City Area Public Schools,LEA School,4200,Central High School,1150 Milliken Dr,Traverse City
+Oakland,Wass Elementary,2340 Willard Dr,Troy,Pre-school - elementary,63150,Troy School District,LEA School,6939,Wass Elementary School,2340 Willard Drive,Troy
+Tuscola,Highland Pines,1381 Cleaver RD,Caro,High school,79000,Tuscola ISD,ISD School,1997,Highland Pines School,1381 Cleaver Rd,Caro
+Tuscola,Wolverine Human Services Saginaw,2424 N Outer Dr,Saginaw,High school,79000,Tuscola ISD,ISD School,2911,Wolverine Education Center,2424 N Outer Drive,Saginaw
+Branch,Union City High School,430 St Joseph St,Union City,High school,13135,Union City Community Schools,LEA School,4246,Union City Middle School,435 Saint Joseph St,Union City
+Tuscola,USA Elementary,7835 N Unionville Rd,Unionville,Pre-school - elementary,79145,Unionville-Sebewaing Area S.D.,LEA School,4909,Unionville-Sebewaing Elem. School,7835 North Unionville Rd,Unionville
+Menominee,Stephenson High/Middle School,W526 Division Street,Stephenson,High school,55900,Uplift Michigan Academy,PSA School,3165,Uplift Michigan Academy,W526 Division St,Stephenson
+Macomb,Henry Ford II High School,11911 Clinton River Rd,Sterling Heights,High school,50210,Utica Community Schools,LEA School,6265,Henry Ford II High School,11911 Clinton River Rd,Sterling Heights
+Macomb,Heritage Junior High,37400 DODGE PARK RD,Sterling Heights,Junior high/middle school,50210,Utica Community Schools,LEA School,6769,Heritage Junior High School,37400 Dodge Park Rd,Sterling Heights
+Macomb,Indian Hills Elementary,8401 29 Mile Rd,Washington,Pre-school - elementary,50210,Utica Community Schools,LEA School,983,Schwarzkoff Elementary School,8401 Constitution Blvd,Sterling Heights
+Macomb,Shelby Junior High School,51700 Van Dyke Ave,Shelby Township,High school,50210,Utica Community Schools,LEA School,3456,Shelby Junior High School,51700 Van Dyke Ave,Shelby Township
+Macomb,Utica High School,47255 Shelby road,Shelby Township,High school,50210,Utica Community Schools,LEA School,4267,Utica High School,47255 Shelby Rd,Utica
+Wayne,Owen Intermediate School,45201 Owen St,Belleville,Junior high/middle school,82430,Van Buren Public Schools,LEA School,263,Owen Intermediate School,45201 Owen St,Belleville
+Macomb,Masonic Heights Elementary School,22100 Masonic Blvd,St. Clair Shores,Pre-school - elementary,50220,Van Dyke Public Schools,LEA School,350,LINCOLN ELEMENTARY SCHOOL,22100 Federal,Warren
+Macomb,Mound Park Elementary,5356 Toepfer Rd,Warren,Pre-school - elementary,50220,Van Dyke Public Schools,LEA School,2463,McKinley Elementary School,13173 Toepfer Rd,Warren
+St. Clair,St. Clair County RESA,"499 Range Rd, PO Box 1500",Marysville,High school,74912,Virtual Learning Academy of St. Clair County,PSA School,195,Virtual Learning Academyof St. Clair County,499 Range Rd,Marysville
+Kent,Walker Charter Academy,1801 3 Mile Rd NW,Walker,Junior high/middle school,41915,Walker Charter Academy,PSA School,8485,Walker Charter Academy,1801 3 Mile Rd Nw,Grand Rapids
+Oceana,Walkerville Public Schools,145 East Lathrop St,Walkerville,Pre-school - elementary,64090,Walkerville Public Schools,LEA School,4336,Walkerville Public School,145 East Lathrop Street,Walkerville
+Oakland,Glengary Elementary,3070 Woodbury St,Commerce Charter Township,Pre-school - elementary,63290,Walled Lake Consolidated Schools,LEA School,1420,Glengary Elementary School,3070 Woodbury St,Commerce Township
+Macomb,Cousino Senior High School,30333 Hoover Rd,Warren,High school,50230,Warren Consolidated Schools,LEA School,814,Cousino Senior High School,30333 Hoover Rd,Warren
+Macomb,Pinewood Elementary School,1441 Bade Dr,Warren,Pre-school - elementary,50240,Warren Woods Public Schools,LEA School,5658,Pinewood Elementary School,14411 Bade Dr,Warren
+Macomb,Warren Woods Middle School,13400 Twelve Mile Rd,Warren,Junior high/middle school,50240,Warren Woods Public Schools,LEA School,304,Warren Woods Education Center,12900 Frazho Rd,Warren
+Macomb,Warren Woods Towers High School,27900 Bunert Rd,Warren,High school,50240,Warren Woods Public Schools,LEA School,304,Warren Woods Education Center,12900 Frazho Rd,Warren
+Ionia,Westwood Elementary School,883 Cross St,Portland,Pre-school - elementary,50240,Warren Woods Public Schools,LEA School,4490,Westwood Elementary School,11999 Martin Rd,Warren
+Allegan,Wayland Union High School,870 E Superior St,Wayland,High school,3040,Wayland Union Schools,LEA School,1379,Career Connections Academy,870 East Superior Street,Wayland
+Allegan,Wayland Union Middle School,701 Wildcat,Wayland,Junior high/middle school,3040,Wayland Union Schools,LEA School,4404,Wayland High School,870 East Superior St,Wayland
+Ingham,Webberville High School,309 E Grand River Ave,Webberville,High school,33220,Webberville Community Schools,LEA School,4416,Webberville Elementary School,202 North Main St,Webberville
+Oakland,Our Lady of Refuge,3750 Commerce Rd,West Bloomfield Township,Pre-school - elementary,63160,West Bloomfield School District,LEA School,7372,Scotch Elementary School,5959 Commerce Rd,West Bloomfield
+Iron,West Iron County,700 Washington Ave,Iron River,Pre-school - elementary,36025,West Iron County Public Schools,LEA School,1852,West Iron County High School,701 Garfield Ave,Iron River
+Kent,West Side Christian School,955 Westend Ave NW,Grand Rapids,Pre-school - elementary,41924,West Michigan Aviation Academy,PSA School,325,West Michigan Aviation Academy,"5363 44th Street, S.E.",Grand Rapids
+Ottawa,West Ottawa High School,3685 Butternut Dr,Holland,High school,70070,West Ottawa Public School District,LEA School,824,Dunes Alternative High School,3685 Butternut Drive,Holland
+Ottawa,Harbor Lights Middle School,1024 136TH Ave,Holland,Junior high/middle school,70070,West Ottawa Public School District,LEA School,8613,Harbor Lights Middle School,1024 136th Ave,Holland
+Ottawa,Woodbridge Elementary,9110 Woodbridge Street,Zeeland,Pre-school - elementary,70070,West Ottawa Public School District,LEA School,4595,Woodside Elementary School,2591 North Division Ave,Holland
+Wayne,Roosevelt High School,540 Eureka Rd,Wyandotte,High school,82170,"Wyandotte, School District of the City of",LEA School,3267,Roosevelt High School,540 Eureka,Wyandotte
+Kent,Wyoming High School,1350 Prairie Parkway SW,Wyoming,High school,41026,Wyoming Public Schools,LEA School,3253,Wyoming High School,1350 Prairie Pkwy Sw,Wyoming
+Ottawa,Creekside Middle School,179 W Roosevelt Ave,Zeeland,Junior high/middle school,70350,Zeeland Public Schools,LEA School,4622,Creekside Middle School,179 West Roosevelt Ave,Zeeland
+Ottawa,Zeeland Christian School,334 W Central Ave,Zeeland,Junior high/middle school,70350,Zeeland Public Schools,LEA School,1199,Zeeland Quest,175 W Roosevelt Ave,Zeeland
+Ottawa,Zeeland West High School,3390 100th Ave,Zeeland,High school,70350,Zeeland Public Schools,LEA School,1199,Zeeland Quest,175 W Roosevelt Ave,Zeeland
+Macomb,Bozymowski Center,11870 ELDORADO DR,Sterling Heights,Pre-school - elementary,,,,1962,,,
+Washtenaw,Manchester Schools Central Office,710 E Main St,Manchester,Junior high/middle school,,,,2334,,,
+Lenawee,Adrian College,110 S Madison Ave,Adrian,College - undergraduate,,,College,N/A,,,
+Gratiot,Alma College,614 W Superior,Alma,College - undergraduate,,,College,N/A,,,
+Kent,Aquinas College,1700 Fulton St E,Grand Rapids,College - undergraduate,,,College,N/A,,,
+Delta,Bay College,2100 N Lincoln Rd,Escanaba,College - undergraduate,,,College,N/A,,,
+Kent,Calvin University,3201 Burton St SE,Grand Rapids,College - undergraduate,,,College,N/A,,,
+Isabella,Central Michigan University,1200 S Franklin,Mt. Pleasant,College - graduate,,,College,N/A,,,
+Isabella,Central Michigan University,1200 S Franklin,Mt. Pleasant,College - undergraduate,,,College,N/A,,,
+Livingston,Cleary University,3750 Cleary Drive,Howell,College - undergraduate,,,College,N/A,,,
+Washtenaw,Concordia University,4090 Geddes Ave,Ann Arbor,College - undergraduate,,,College,N/A,,,
+Washtenaw,Concordia University,4090 Geddes Rd,Ann Arbor,College - undergraduate,,,College,N/A,,,
+Kent,Cornerstone University,1001 E Beltline Ave NE,Grand Rapids,College - undergraduate,,,College,N/A,,,
+Kent,Davenport University,6191 Kraft,Grand Rapids,College - undergraduate,,,College,N/A,,,
+Washtenaw,Eastern Michigan University,Ypsilanti,Ypsilanti,College - undergraduate,,,College,N/A,,,
+Mecosta,Ferris State University,1201 S State St,Big Rapids,College - undergraduate,,,College,N/A,,,
+Houghton,Finlandia University,601 Quincy Street,Hancock,College - undergraduate,,,College,N/A,,,
+St. Joseph,Glen Oaks Community College,62249 Shimmel Rd,Centreville,College - undergraduate,,,College,N/A,,,
+Kent,Grand Rapids Community College,143 Bostwick Ave NE,Grand Rapids,College - undergraduate,,,College,N/A,,,
+Ottawa,Grand Valley State University,1 Campus Drive,Allendale,College - undergraduate,,,College,N/A,,,
+Eaton,Great Lakes Christian College,621 W Willow Hwy,Lansing,College - undergraduate,,,College,N/A,,,
+Hillsdale,Hillsdale College,33 E College St,Hillsdale,College - undergraduate,,,College,N/A,,,
+Ottawa,Hope College,141 E 12th St,Holland,College - undergraduate,,,College,N/A,,,
+Jackson,Jackson College,2111 Emmons Rd,Jackson,College - undergraduate,,,College,N/A,,,
+Kalamazoo,Kalamazoo College,1200 Academy St,Kalamazoo,College - undergraduate,,,College,N/A,,,
+Kent,Kuyper College,3333 E Beltline Ave NE,Grand Rapids,College - undergraduate,,,College,N/A,,,
+Chippewa,Lake Superior State University,650 Easterday Avenue,Sault Ste Marie,College - undergraduate,,,College,N/A,,,
+Oakland,Lawrence Tech University,21000 W 10 Mile Rd,Southfield,College - undergraduate,,,College,N/A,,,
+Wayne,Madonna University,36600 Schoolcraft Rd,Livonia,College - undergraduate,,,College,N/A,,,
+Ingham,Michigan State University,Off campus,East Lansing,College - undergraduate,,,College,N/A,,,
+Ingham,Michigan State University off-campus,East Lansing,East Lansing,College - undergraduate,,,College,N/A,,,
+Houghton,Michigan Technological University,1400 Townsend Drive,Houghton,College - undergraduate,,,College,N/A,,,
+Genesee,Mott Community College,1401 East Court Street,Flint,College - undergraduate,,,College,N/A,,,
+Ingham,MSU,Off campus,East Lansing,College - undergraduate,,,College,N/A,,,
+Ingham,MSU off-campus,East Lansing,East Lansing,College - undergraduate,,,College,N/A,,,
+Marquette,Northern Michigan University,1401 Presque Isle,Marquette,College - undergraduate,,,College,N/A,,,
+Marquette,Northern Michigan University - ROTC,1401 Presque Isle Avenue,Marquette,College - undergraduate,,,College,N/A,,,
+Marquette,Northern Michigan University Men's basketball,1401 Presque Isle,Marquette,College - undergraduate,,,College,N/A,,,
+Marquette,Northern Michigan University Women's Lacrosse,1401 Presque Isle,Marquette,College - undergraduate,,,College,N/A,,,
+Midland,Northwood University,4000 Whiting,Midland,College - undergraduate,,,College,N/A,,,
+Oakland,Oakland University,318 Meadowbrook Rd,Rochester,College - undergraduate,,,College,N/A,,,
+Eaton,Olivet College,320 S Main St,Olivet,College - undergraduate,,,College,N/A,,,
+Saginaw,Saginaw Valley State University,7400 Bay Road,University Center,College - undergraduate,,,College,N/A,,,
+Wayne,Schoolcraft College,18600 Haggerty Rd,Livonia,College - undergraduate,,,College,N/A,,,
+Lenawee,Siena Heights,1247 E Siena Heights Drive,Adrian,College - undergraduate,,,College,N/A,,,
+Lenawee,Siena Heights University,1247 E Siena Heights Drive,Adrian,College - undergraduate,,,College,N/A,,,
+Jackson,Spring Arbor University,106 E Main St,Spring Arbor,College - undergraduate,,,College,N/A,,,
+St. Clair,The Culinary Institute of Michigan - Port Huron,2000 St Clair Street,Port Huron,College - undergraduate,,,College,N/A,,,
+Washtenaw,University of Michigan,Ann Arbor,Ann Arbor,College - undergraduate,,,College,N/A,,,
+Genesee,University Of Michigan-Flint,303 E Kearsley Street,Flint,College - undergraduate,,,College,N/A,,,
+Washtenaw,Washtenaw Community College,4800 E Huron River Dr,Ann Arbor,College - undergraduate,,,College,N/A,,,
+Kalamazoo,Western Michigan University,"1903 Western, Michigan Ave",Kalamazoo,College - undergraduate,,,College,N/A,,,
+Gogebic,All Saints Academy,106 S Marquette Street,Ironwood,Pre-school - elementary,,,Private,N/A,,,
+Barry,Barry County Christian School,2999 McKeown,Hastings,Pre-school - elementary,,,Private,N/A,,,
+Shiawassee,Bright Beginnings,2312 W Lansing Rd,Morrice,Pre-school - elementary,,,Private,N/A,,,
+St. Clair,Cardinal Mooney Catholic High School,660 S Water St,Marine City,High school,,,Private,N/A,,,
+Ingham,Childtime Learning Center,920 Jerome,Lansing,Pre-school - elementary,,,Private,N/A,,,
+Wayne,Divine Child High School,1001 Silvery Ln,Dearborn,High school,,,Private,N/A,,,
+Washtenaw,Father Gabriel Richard HS,4333 Whitehall dr,Ann Arbor,High school,,,Private,N/A,,,
+Washtenaw,Father Gabriel Richard HS,4333 Whitehall Dr,Ann Arbor,High school,,,Private,N/A,,,
+Wayne,Gabriel Richard Catholic High School,15325 Pennsylvania Rd,Riverview,High school,,,Private,N/A,,,
+Eaton,Grand Ledge Transportation ,220 Lamson St,Grand Ledge,Administrative,,,Private,N/A,,,
+Kalamazoo,Heritage Christian Academy,6312 Quail Run Dr,Kalamazoo,High school,,,Private,N/A,,,
+Ottawa,Heritage Christian School,6340 Autumn Dr,Hudsonville,Junior high/middle school,,,Private,N/A,,,
+Delta,Holy Name Catholic School,409 S 22nd St,Escanaba,Pre-school - elementary,,,Private,N/A,,,
+Wayne,Holy Redeemer Grade School,1711 Junction Ave,Detroit,Pre-school - elementary,,,Private,N/A,,,
+Macomb,Immanuel Lutheran,47120 Romeo Plank Rd,Macomb,Pre-school - elementary,,,Private,N/A,,,
+Washtenaw,Jewish Community Center,2935 Birch Hollow Dr,Ann Arbor,Pre-school - elementary,,,Private,N/A,,,
+Washtenaw,Jewish Community Center ECC,2935 Birch Hollow Dr,Ann Arbor,Pre-school - elementary,,,Private,N/A,,,
+Leelanau,Leelanau School,One Homestead rd,Glen Arbor,High school,,,Private,N/A,,,
+Ottawa,Libertas Christian School,5181 64th Ave,Hudsonville,Junior high/middle school,,,Private,N/A,,,
+Wayne,Lutheran Westland High School,33300 Cowan Rd,Westland,High school,,,Private,N/A,,,
+Missaukee,Northern Michigan Christian,128 Martin St,McBain,Pre-school - elementary,,,Private,N/A,,,
+Missaukee,Northern Michigan Christian School,128 Martin St,McBain,Administrative,,,Private,N/A,,,
+Oakland,Notre Dame Prep,1300 Giddings Rd,Pontiac,High school,,,Private,N/A,,,
+Oceana,Oceana Christian School,3258 North 72nd Avenue,Hart,Pre-school - elementary,,,Private,N/A,,,
+Oceana,Oceana Christian School,3258 N 72nd Avenue,Hart,Pre-school - elementary,,,Private,N/A,,,
+Detroit City,Order of the Fishermen Head Start Chapel Hill,10025 Grand River Ave,Detroit,Pre-school - elementary,,,Private,N/A,,,
+Macomb,Regina High School,13900 Masonic Blvd,Warren,High school,,,Private,N/A,,,
+Emmet,St Francis Xavier School,414 Michigan St,Petoskey,Pre-school - elementary,,,Private,N/A,,,
+Ingham,St Martha's School,1100 W Grand River Ave,Okemos,Pre-school - elementary,,,Private,N/A,,,
+Washtenaw,St Paul Lutheran School,495 Earhart Rd,Ann Arbor,Pre-school - elementary,,,Private,N/A,,,
+Wayne,St. Anselm Catholic School,17700 Outer Dr W,Dearborn Heights,Pre-school - elementary,,,Private,N/A,,,
+Wayne,St. Anselm Elementary School,17700 Outer Dr W,Dearborn Heights,Pre-school - elementary,,,Private,N/A,,,
+Eaton,St. Gerard,4437 W Willow Hwy,Lansing,Pre-school - elementary,,,Private,N/A,,,
+Macomb,St. Lawrence Catholic School,44633 Utica,Utica,Junior high/middle school,,,Private,N/A,,,
+Livingston,St. Patrick School,1001 Charles Orndorf Drive,Brighton,Pre-school - elementary,,,Private,N/A,,,
+Macomb,St. Peter Lutheran School,17051 24 Mile Rd,Macomb,Pre-school - elementary,,,Private,N/A,,,
+Monroe,State Line Christian School,6320 Lewis Ave,Temperance,Pre-school - elementary,,,Private,N/A,,,
+Ottawa,Unity Christian High School,5900 48th Ave,Hudsonville,High school,,,Private,N/A,,,
+Bay,Zion Lutheran,,,,,,Private,N/A,,,
+Ottawa,Holland Christian High School,950 Ottawa Ave,Holland,High school,,,Private,N/A,,,
+Manistee,Manistee Catholic Central,1200 US31,Manistee,Junior high/middle school,,,Private,N/A,,,
+Kent,South Christian High School,7979 Kalamazoo Ave SE,Byron Center,High school,,,Private,N/A,,,
+Wayne,University Liggett School,1045 Cook Rd,Grosse Pointe Woods,Junior high/middle school,,,Private,N/A,,,
+Lapeer,Cramtom,1220 Lake Nepessing Rd,Lapeer,Pre-school - elementary,,,,N/A,,,
+Lapeer,Cramton Elementary,1220 Lake Nepessing Rd,Lapeer,Pre-school - elementary,,,,N/A,,,
+Washtenaw,EMU Childrens Institute,1055 Cornell Rd,Ypsilanti,Pre-school - elementary,,,,N/A,,,
